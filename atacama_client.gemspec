@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Atacama API integration}
   spec.description   = %q{Atacama API integration}
-  spec.homepage      = "www.coyo.com.br"
+  spec.homepage      = "http://www.coyo.com.br"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
