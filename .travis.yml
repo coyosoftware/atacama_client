@@ -1,0 +1,15 @@
+language: ruby
+rvm:
+  - 2.0.0
+before_install: gem install bundler -v 1.11.2
+
+addons:
+ code_climate:
+   repo_token: db5d075fb16f47b1c4c15946f4c4be1d07023c423f35bfc80a7eb6d798795f6f
+
+notifications:
+ email:
+   recipients:
+     - ti@coyo.com.br
+   on_failure: change
+   on_success: never
