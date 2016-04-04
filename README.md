@@ -1,6 +1,6 @@
 # Atacama API gem
 
-[![Build Status](https://travis-ci.org/coyosoftware/atacama_client.svg?branch=master)](https://travis-ci.org/coyosoftware/atacama_client) [![Gem Version](https://badge.fury.io/rb/atacama_client.svg)](http://badge.fury.io/rb/atacama_client) [![Code Climate](https://codeclimate.com/github/coyosoftware/atacama_client/badges/gpa.svg)](https://codeclimate.com/github/coyosoftware/atacama_client) [![Test Coverage](https://codeclimate.com/github/coyosoftware/atacama_client/badges/coverage.svg)](https://codeclimate.com/github/coyosoftware/atacama_client/coverage)
+[![Build Status](https://travis-ci.org/coyosoftware/atacama_client.svg?branch=master)](https://travis-ci.org/coyosoftware/atacama_client) [![Gem Version](https://badge.fury.io/rb/atacama_client.svg)](https://badge.fury.io/rb/atacama_client) [![Code Climate](https://codeclimate.com/github/coyosoftware/atacama_client/badges/gpa.svg)](https://codeclimate.com/github/coyosoftware/atacama_client) [![Test Coverage](https://codeclimate.com/github/coyosoftware/atacama_client/badges/coverage.svg)](https://codeclimate.com/github/coyosoftware/atacama_client/coverage)
 
 This gem simplifies the usage of [Atacama](http://atacama.coyo.com.br/) API
 
