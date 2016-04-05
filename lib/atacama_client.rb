@@ -10,8 +10,8 @@ module AtacamaClient
   end
 
   def self.configure(&block)
-    block.call config
+    block.call configuration
   end
 
-  ActiveRestClient::Base.base_url = "http://atacama.coyo.com.br/api"
+  ActiveRestClient::Base.base_url = "http://localhost:3003/api"
 end
