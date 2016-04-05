@@ -9,5 +9,9 @@ module AtacamaClient
     Configuration.instance
   end
 
+  def self.configure(&block)
+    block.call config
+  end
+
   ActiveRestClient::Base.base_url = "http://atacama.coyo.com.br/api"
 end
