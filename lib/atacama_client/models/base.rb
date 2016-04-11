@@ -1,5 +1,5 @@
 module AtacamaClient
-  class Base < ActiveRestClient::Base
+  class Base < Flexirest::Base
     request_body_type :json
     before_request :add_api_token
 
